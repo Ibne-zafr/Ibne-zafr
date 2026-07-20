@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:1877F2&height=180&section=header&text=Ibne-zafr&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=WordPress%20Developer%20%7C%20SEO%20Specialist%20%7C%20Web%20Developer&descAlignY=55&descSize=18" alt="Ibne-zafr" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2E9EF7,100:1877F2&height=220&section=header&text=Ibne-zafr&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=WordPress%20Developer%20%7C%20SEO%20Specialist%20%7C%20Web%20Developer&descAlignY=56&descSize=20&descAlign=50" alt="Ibne-zafr" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+SEO-optimized+websites;WordPress+Development+%7C+On-Page+SEO;BS+Artificial+Intelligence+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+SEO-optimized+websites;WordPress+Development+%7C+On-Page+SEO;BS+Artificial+Intelligence+Student" alt="Typing SVG" />
 </p>
 
 ---
@@ -40,8 +40,8 @@ Current focus areas:
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ibne-zafr&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibne-zafr&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Ibne-zafr&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ibne-zafr&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
