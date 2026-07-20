@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ibne-zafr</h1>
-<h3 align="center">WordPress Developer | SEO Specialist | Web Developer</h3>
+<h1 align="center">Hi , I'm Ibne-zafr</h1>
+<h3 align="center">WordPress Developer | SEO Specialist </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+SEO-optimized+websites;WordPress+%7C+On-Page+SEO+%7C+Web+Dev;BS+Computer+Science+Student" alt="Typing SVG" />
@@ -9,9 +9,9 @@
 
 ### 🚀 About Me
 
-- 🎓 BS Computer Science student, focused on practical web technologies
-- 💻 I build and optimize WordPress sites with SEO-first architecture
-- ✍️ I produce SEO-optimized, CMS-ready content and technical articles
+- Student of Artificial Intelligence 
+-  I build and optimize WordPress sites with SEO-first architecture
+-  I produce SEO-optimized, CMS-ready content and technical articles
 - 🌱 Currently sharpening skills in on-page SEO, site performance, and modern web dev
 - 📈 Interested in the intersection of content strategy and technical implementation
 - 💬 Ask me about WordPress, SEO audits, keyword research, or web development
